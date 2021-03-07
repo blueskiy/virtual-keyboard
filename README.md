@@ -6,7 +6,7 @@ Take a look: https://pianinvirtual.netlify.app/
 
 Notes in keyboard:
 
-PC key | Note
+PC key | Note  
 A = C  
 W = C#/Db  
 S = D  
